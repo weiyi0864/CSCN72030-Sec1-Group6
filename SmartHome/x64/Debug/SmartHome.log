@@ -1,0 +1,12 @@
+﻿  moc Dialog.h
+  ACControl.cpp
+  Area.cpp
+  CameraControl.cpp
+  CurtainControl.cpp
+  Dialog.cpp
+  FridgeControl.cpp
+  LightControl.cpp
+  main.cpp
+  qrc_Dialog.cpp
+  moc_Dialog.cpp
+  SmartHome.vcxproj -> C:\Users\thomas\source\repos\SmartHome\x64\Debug\SmartHome.exe
