@@ -20,7 +20,12 @@ public:
 private:
     std::vector<Area*> areas;
     QDialog* add_new_area_dialog;
+    QLineEdit* typ;
+    QVBoxLayout* mainLayout;
+    QVBoxLayout* areaLayout;
 private slots:
     void addButtonClicked();
+    void addAreaButtonClicked();
+    void cancelButtonClicked();
 };
 #endif // DIALOG_H
